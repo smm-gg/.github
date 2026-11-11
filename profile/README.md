@@ -19,7 +19,7 @@ SMM.GG delivers followers, likes, views, members and streams for Instagram, TikT
 
 - **Card and crypto payments**, balances in USD
 - **Refill options** on supported services
-- **Reseller API** in the standard v2 format, plus your own branded child panel
+- **Reseller API** in the standard v2 format, plus Your own panel (your brand, your domain)
 - **24/7 support** in 20 languages
 
 ### For developers
